@@ -1,3 +1,7 @@
+## Demo
+
+https://ephemchat.vercel.app
+
 # EphemChat
 
 EphemChat is a simple ephemeral peer-to-peer chat built with WebRTC.
@@ -17,9 +21,13 @@ Just create a room, share the code, and chat directly.
 
 EphemChat uses WebRTC for direct browser-to-browser communication and STUN servers for NAT traversal.
 
-## Demo
+## Run locally
 
-https://ephemchat.vercel.app
+Just open `index.html` in your browser.
+
+Or serve it with a simple HTTP server.
 
 ## License
 AGPLv3
+
+
