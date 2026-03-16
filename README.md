@@ -21,3 +21,5 @@ EphemChat uses WebRTC for direct browser-to-browser communication and STUN serve
 
 https://ephemchat.vercel.app
 
+## Licence
+AGPLv3
